@@ -7,6 +7,8 @@
 Free SVG icons for popular brands. See them all on one page at <a href="https://simpleicons.org">SimpleIcons.org</a>. Contributions, corrections & requests can be made on GitHub. Started by <a href="https://twitter.com/bathtype">Dan Leech</a>.</p>
 </p>
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2770/badge)](https://bestpractices.coreinfrastructure.org/projects/2770)
+
 ## Usage
 
 ### General Usage
